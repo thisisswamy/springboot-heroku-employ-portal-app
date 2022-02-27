@@ -32,7 +32,7 @@ a {
 }
 </style>
 	<div class="container shadow  col-md-3 justify-content-center "
-		style="padding: 40px; margin-top: 20px; border-radius: 10px; width: 450px; font-family: sans-serif; background-color: white;">
+		style="padding: 40px; margin-top: 20px; border-radius: 10px; width: 400px; font-family: sans-serif; background-color: white;">
 
 		<div>
 			<h1 class="text-center">
