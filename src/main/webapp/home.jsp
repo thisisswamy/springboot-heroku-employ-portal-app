@@ -6,6 +6,8 @@
 <html>
 <head>
 <meta charset="ISO-8859-1">
+<meta http-equiv="X-UA-Compatible" content="IE=edge">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
 <title>Home</title>
 <link
 	href="https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/css/bootstrap.min.css"
@@ -90,7 +92,7 @@ footer {
 	padding-top: 30px;
 }
 
-@media only screen and (max-width: 600px) {
+@media only screen and (max-width: 970px) {
 	#footer-1 {
 		flex-direction: column;
 		justify-content: center;
